@@ -10,4 +10,4 @@ def binary_search(arr, target):
             high = mid - 1
     return -1
 
-print(binary_search([10,20,30,40,89,30, 52, 20, 100,50], 14)) 
+print(binary_search([10,78,30,40,89,30, 52, 20, 100,50], 100)) 
