@@ -1,2 +1,2 @@
-# DSA-practice## New Section
-- Added more details here.
+# DSA-practice
+#bubble sort time complexity (O(n²)).
